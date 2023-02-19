@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "katanastra:raw_platinium_block"
+    }
+  },
+  "result": {
+    "item": "katanastra:raw_platinium",
+    "count": 9
+  }
+}

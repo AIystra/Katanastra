@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "katanastra:block/hell_stele" },
+    "facing=east": { "model": "katanastra:block/hell_stele", "y": 90 },
+    "facing=south": { "model": "katanastra:block/hell_stele", "y": 180 },
+    "facing=west": { "model": "katanastra:block/hell_stele", "y": 270 }
+  }
+}

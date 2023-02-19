@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#A#",
+    "ALA",
+    "CAC"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:smooth_basalt"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "L": {
+      "item": "minecraft:lava_bucket"
+    },
+    "C": {
+      "item": "minecraft:calcite"
+    }
+  },
+  "result": {
+    "item": "minecraft:budding_amethyst",
+    "count": 1
+  }
+}

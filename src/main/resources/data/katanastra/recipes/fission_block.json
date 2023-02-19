@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#K#",
+    "KSK",
+    "#K#"
+  ],
+  "key": {
+    "#": {
+      "item": "katanastra:platinium_block"
+    },
+    "K": {
+      "item": "katanastra:blood_block"
+    },
+    "S": {
+      "item": "katanastra:demon_star"
+    }
+  },
+  "result": {
+    "item": "katanastra:fission_block",
+    "count": 1
+  }
+}

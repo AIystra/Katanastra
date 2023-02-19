@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    " # ",
+    "L  "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:oak_planks"
+    },
+    "L": {
+      "item": "katanastra:handle"
+    }
+  },
+  "result": {
+    "item": "katanastra:wood_katana",
+    "count": 1
+  }
+}

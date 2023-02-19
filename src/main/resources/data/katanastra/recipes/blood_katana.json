@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  b",
+    " b ",
+    "H  "
+  ],
+  "key": {
+    "b": {
+      "item": "katanastra:blood_ingot"
+    },
+    "H": {
+      "item": "katanastra:handle"
+    }
+  },
+  "result": {
+    "item": "katanastra:blood_katana",
+    "count": 1
+  }
+}

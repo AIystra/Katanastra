@@ -1,0 +1,80 @@
+{
+
+  "item.katanastra.blood_drop": "Drop of Blood",
+  "item.katanastra.molten_blood_drop": "Drop of molten Blood",
+  "item.katanastra.blood_ingot": "Blood Ingot",
+  "item.katanastra.blood_infused_netherite": "Blood infused Netherite Ingot",
+
+  "item.katanastra.blood_string": "Blood String",
+  "item.katanastra.blood_stick": "Blood Stick",
+  "item.katanastra.reinforced_stick": "Reinforced Stick",
+  "item.katanastra.handle": "Handle",
+  "item.katanastra.netherite_handle": "Netherite Handle",
+  "item.katanastra.platinium_flame": "Platinium Flame",
+  "item.katanastra.platinium_toothbrush": "Platinium Toothbrush",
+  "item.katanastra.platinium_apple": "Platinium Apple",
+  "item.katanastra.steel_fragment": "Steel Fragment",
+  "item.katanastra.stone_diamond": "Stone Diamond",
+  "item.katanastra.stone_emerald": "Stone Emerald",
+  "item.katanastra.stone_gold": "Stone Gold",
+  "item.katanastra.stone_iron": "Stone Iron",
+
+  "item.katanastra.platinium_pickaxe": "Platinium Pickaxe",
+  "item.katanastra.platinium_axe": "Platinium Axe",
+  "item.katanastra.platinium_shovel": "Platinium Shovel",
+  "item.katanastra.platinium_hoe": "Platinium Hoe",
+
+  "item.katanastra.wood_katana": "Wood Katana",
+  "item.katanastra.gold_katana": "Gold Katana",
+  "item.katanastra.platinium_katana": "Platinium Katana",
+  "item.katanastra.iron_katana": "Iron Katana",
+  "item.katanastra.diamond_katana": "Diamond Katana",
+  "item.katanastra.blood_katana": "Blood Katana",
+  "item.katanastra.ultimate_katana": "Ultimate Katana",
+
+  "item.katanastra.demon_helmet": "Demon Helmet",
+  "item.katanastra.demon_chestplate": "Demon Chestplate",
+  "item.katanastra.demon_leggings": "Demon Leggings",
+  "item.katanastra.demon_boots": "Demon Boots",
+
+  "item.katanastra.platinium_helmet": "Platinium Helmet",
+  "item.katanastra.platinium_chestplate": "Platinium Chestplate",
+  "item.katanastra.platinium_leggings": "Platinium Leggings",
+  "item.katanastra.platinium_boots": "Platinium Boots",
+
+  "item.katanastra.reinforced_bow": "Reinforced Bow",
+
+  "item.minecraft.potion.effect.blood_bottle": "Blood Bottle",
+  "item.minecraft.splash_potion.effect.blood_bottle": "Splash Bottle of Blood",
+  "item.minecraft.lingering_potion.effect.blood_bottle": "Lingering Bottle of Blood",
+
+
+  "block.katanastra.blood_block": "Block of Blood",
+  "block.katanastra.fission_block": "Fractal Fission",
+
+  "item.katanastra.demon_star": "Demon Star",
+  "item.katanastra.blood_bucket": "Blood Bucket",
+
+  "itemGroup.katanastra.katanastra": "Katan Astra",
+
+
+  "item.katanastra.platinium_ingot": "Platinium Ingot",
+  "item.katanastra.raw_platinium": "Raw Platinium",
+  "item.katanastra.milk_with_platinium_ingot": "Milk Bucket with Platinum Ingot",
+  "item.katanastra.platinium_milk": "Platinum Milk Bucket",
+
+  "block.katanastra.deepslate_platinium_ore": "Deepslate Platinium ore",
+  "block.katanastra.platinium_ore": "Platinium Ore",
+  "block.katanastra.raw_platinium_block": "Raw Platinium Block",
+  "block.katanastra.platinium_block": "Platinium Block",
+
+  "block.katanastra.lucky_ore": "Lucky Ore",
+  "block.katanastra.deepslate_lucky_ore": "Deepslate Lucky Ore",
+
+  "effect.katanastra.blood": "Infected Blood",
+  "effect.katanastra.bluud": "Suspicious Blood",
+  "effect.katanastra.cooldown": "Cooldown",
+
+  "enchantment.katanastra.blessing_of_zeus": "Blessing of Zeus"
+
+}

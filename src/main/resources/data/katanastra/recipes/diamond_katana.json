@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    " # ",
+    "H  "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "H": {
+      "item": "katanastra:handle"
+    }
+  },
+  "result": {
+    "item": "katanastra:diamond_katana",
+    "count": 1
+  }
+}

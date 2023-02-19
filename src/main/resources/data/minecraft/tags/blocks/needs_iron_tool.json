@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "katanastra:blood_block",
+    "katanastra:deepslate_platinium_ore",
+    "katanastra:platinium_ore",
+    "katanastra:raw_platinium_block",
+    "katanastra:platinium_block",
+    "katanastra:fission_block",
+    "katanastra:deepslate_lucky_ore",
+    "katanastra:lucky_ore"
+  ]
+}

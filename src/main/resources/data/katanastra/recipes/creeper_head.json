@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#G#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "katanastra:steel_fragment"
+    },
+    "G": {
+      "item": "minecraft:gunpowder",
+      "count": 32
+    }
+  },
+  "result": {
+    "item": "minecraft:creeper_head",
+    "count": 1
+  }
+}

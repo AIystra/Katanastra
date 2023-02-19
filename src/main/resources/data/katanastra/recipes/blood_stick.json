@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " //",
+    "/b/",
+    "// "
+  ],
+  "key": {
+    "/": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "katanastra:blood_ingot"
+    }
+  },
+  "result": {
+    "item": "katanastra:blood_stick",
+    "count": 1
+  }
+}

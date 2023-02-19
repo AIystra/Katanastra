@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "katanastra:blocks/deepslate_platinium_ore"
+  }
+}

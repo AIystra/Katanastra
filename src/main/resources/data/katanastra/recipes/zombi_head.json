@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#R#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "katanastra:steel_fragment"
+    },
+    "R": {
+      "item": "minecraft:rotten_flesh",
+      "count": 32
+    }
+  },
+  "result": {
+    "item": "minecraft:zombie_head",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "kKk",
+    "KAk",
+    "kKk"
+  ],
+  "key": {
+    "k": {
+      "item": "katanastra:platinium_ingot"
+    },
+    "K": {
+      "item": "katanastra:blood_drop"
+    },
+    "A": {
+      "item": "minecraft:apple"
+    }
+  },
+  "result": {
+    "item": "katanastra:platinium_apple",
+    "count": 1
+  }
+}

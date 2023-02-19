@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "k k",
+    "k k"
+  ],
+  "key": {
+    "k": {
+      "item": "katanastra:platinium_ingot"
+    }
+  },
+  "result": {
+    "item": "katanastra:platinium_boots",
+    "count": 1
+  }
+}

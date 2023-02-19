@@ -1,0 +1,76 @@
+{
+  "item.katanastra.blood_drop": "Goutte de Sang",
+  "item.katanastra.molten_blood_drop": "Goutte de Sang fondu",
+  "item.katanastra.blood_ingot": "lingot de Sang",
+  "item.katanastra.blood_infused_netherite": "Lingot de Netherite infusée de Sang",
+
+  "item.katanastra.blood_string": "Ficelle trempée de Sang",
+  "item.katanastra.blood_stick": "Batton en Sang",
+  "item.katanastra.reinforced_stick": "Bâton Renforcé",
+  "item.katanastra.handle": "Manche",
+  "item.katanastra.netherite_handle": "Manche en Netherite",
+  "item.katanastra.platinium_flame": "Flamme de Platinium",
+  "item.katanastra.platinium_toothbrush": "Platinium Bross à Dents",
+  "item.katanastra.platinium_apple": "Platinium Pomme",
+  "item.katanastra.steel_fragment": "Fragment de Métal",
+
+  "item.katanastra.stone_diamond": "Pierre de Diamant",
+  "item.katanastra.stone_emerald": "Pierre d'Émeraude",
+  "item.katanastra.stone_gold": "Pierre d'Or",
+  "item.katanastra.stone_iron": "Pierre de Fer",
+
+  "item.katanastra.platinium_pickaxe": "Pioche en Platinium",
+  "item.katanastra.platinium_axe": "Hache en Platinium",
+  "item.katanastra.platinium_shovel": "Pelle en Platinium",
+  "item.katanastra.platinium_hoe": "Houe en Platinium",
+
+  "item.katanastra.wood_katana": "Katana en Bois",
+  "item.katanastra.gold_katana": "Katana en Or",
+  "item.katanastra.platinium_katana": "Katana en Platinium",
+  "item.katanastra.iron_katana": "Katana de Fer",
+  "item.katanastra.diamond_katana": "Katana de Diamand",
+  "item.katanastra.blood_katana": "Katana de Sang",
+  "item.katanastra.ultimate_katana": "Katana Ultime",
+
+  "item.katanastra.reinforced_bow": "Arc Renforcé",
+
+  "item.katanastra.demon_helmet": "Casque de Démon",
+  "item.katanastra.demon_chestplate": "Plastron de Démon",
+  "item.katanastra.demon_leggings": "Jambière de Démon",
+  "item.katanastra.demon_boots": "Bottes de Démon",
+
+  "item.katanastra.platinium_helmet": "Casque en Platinium",
+  "item.katanastra.platinium_chestplate": "Plastron en Platinium",
+  "item.katanastra.platinium_leggings": "Jambière en Platinium",
+  "item.katanastra.platinium_boots": "Bottes en Platinium",
+
+  "item.minecraft.potion.effect.blood_bottle": "Fiole de Sang",
+  "item.minecraft.splash_potion.effect.blood_bottle": "Fiole jetable de Sang",
+  "item.minecraft.lingering_potion.effect.blood_bottle": "Fiole persistante de Sang",
+
+  "block.katanastra.blood_block": "Block de Sang",
+  "block.katanastra.fission_block": "Fission Fractale",
+  "item.katanastra.demon_star": "Étoile du Démon",
+  "item.katanastra.blood_bucket": "Seau de Sang",
+
+  "itemGroup.katanastra.katanastra": "Katan Astra",
+
+  "item.katanastra.platinium_ingot": "Lingot de Platinium",
+  "item.katanastra.raw_platinium": "Platinium Brut",
+  "item.katanastra.milk_with_platinium_ingot": "Seau de Lait avec Lingot de Platinium",
+  "item.katanastra.platinium_milk": "Seau de Lait au Platinium",
+
+  "block.katanastra.deepslate_platinium_ore": "Minerais de Platinium des abïmes",
+  "block.katanastra.platinium_ore": "Minerais de Platinium",
+  "block.katanastra.raw_platinium_block": "Block de Platinium Brut",
+  "block.katanastra.platinium_block": "Block de platinium",
+
+  "block.katanastra.lucky_ore": "Minerais de Chance",
+  "block.katanastra.deepslate_lucky_ore": "Minerais de Chance des abïmes",
+
+  "effect.katanastra.blood": "Sang Infecté",
+  "effect.katanastra.bluud": "Sang Suspect",
+  "effect.katanastra.cooldown": "Cooldown",
+
+  "enchantment.katanastra.blessing_of_zeus": "Bénédiction de Zeus"
+}

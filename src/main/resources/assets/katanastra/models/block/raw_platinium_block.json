@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "katanastra:blocks/raw_platinium_block"
+  }
+}

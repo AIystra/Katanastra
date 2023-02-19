@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "kkk",
+    "k k"
+  ],
+  "key": {
+    "k": {
+      "item": "katanastra:platinium_ingot"
+    }
+  },
+  "result": {
+    "item": "katanastra:platinium_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#B#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "katanastra:steel_fragment"
+    },
+    "B": {
+      "item": "minecraft:bone",
+      "count": 32
+    }
+  },
+  "result": {
+    "item": "minecraft:skeleton_skull",
+    "count": 1
+  }
+}

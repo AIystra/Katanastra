@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "J"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:jungle_leaves"
+    },
+    "J": {
+      "item": "minecraft:jungle_log"
+    }
+  },
+  "result": {
+    "item": "minecraft:jungle_sapling",
+    "count": 1
+  }
+}

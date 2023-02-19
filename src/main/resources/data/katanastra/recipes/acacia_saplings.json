@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "A"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:acacia_leaves"
+    },
+    "A": {
+      "item": "minecraft:acacia_log"
+    }
+  },
+  "result": {
+    "item": "minecraft:acacia_sapling",
+    "count": 1
+  }
+}

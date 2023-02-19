@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  k",
+    " K ",
+    "k  "
+  ],
+  "key": {
+    "k": {
+      "item": "katanastra:platinium_ingot"
+    },
+    "K": {
+      "item": "katanastra:blood_stick"
+    }
+  },
+  "result": {
+    "item": "katanastra:reinforced_stick",
+    "count": 1
+  }
+}

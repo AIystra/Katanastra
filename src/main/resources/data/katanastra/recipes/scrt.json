@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " #k",
+    " k ",
+    "k  "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:white_dye"
+    },
+    "k": {
+      "item": "katanastra:platinium_ingot"
+    }
+  },
+  "result": {
+    "item": "katanastra:platinium_toothbrush",
+    "count": 1
+  }
+}

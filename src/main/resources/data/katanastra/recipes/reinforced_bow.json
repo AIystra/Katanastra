@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#K ",
+    "#OK",
+    "#K "
+  ],
+  "key": {
+    "#": {
+      "item": "katanastra:blood_string"
+    },
+    "K": {
+      "item": "katanastra:reinforced_stick"
+    },
+    "O": {
+      "item": "katanastra:platinium_flame"
+    }
+  },
+  "result": {
+    "item": "katanastra:reinforced_bow",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "k",
+    "M"
+  ],
+  "key": {
+    "k": {
+      "item": "katanastra:platinium_ingot"
+    },
+    "M": {
+      "item": "minecraft:milk_bucket"
+    }
+  },
+  "result": {
+    "item": "katanastra:milk_with_platinium_ingot",
+    "count": 1
+  }
+}

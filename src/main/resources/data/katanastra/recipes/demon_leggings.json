@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "kkk",
+    "kKk",
+    "k k"
+  ],
+  "key": {
+    "k": {
+      "item": "katanastra:blood_ingot"
+    },
+    "K": {
+      "item": "katanastra:demon_star"
+    }
+  },
+  "result": {
+    "item": "katanastra:demon_leggings",
+    "count": 1
+  }
+}

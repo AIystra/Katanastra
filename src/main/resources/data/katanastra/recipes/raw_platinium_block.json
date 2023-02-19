@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "kkk",
+    "kkk",
+    "kkk"
+  ],
+  "key": {
+    "k": {
+      "item": "katanastra:raw_platinium"
+    }
+  },
+  "result": {
+    "item": "katanastra:raw_platinium_block",
+    "count": 1
+  }
+}

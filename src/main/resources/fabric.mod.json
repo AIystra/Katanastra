@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "katanastra",
+  "version": "${version}",
+
+  "name": "KatanAstra",
+  "description": "this is a mode that is mainly based on the addition of katana and functionality to discover",
+  "authors": [
+    "Astra"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": ""
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/katanastra/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.astra.katanastra.katanastraMod"
+    ]
+  },
+  "mixins": [
+    "katanastra.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric-api": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "katanastra:item/reinforced_bow",
+    "textures": {
+        "layer0": "katanastra:item/reinforced_bow_pulling_0"
+    }
+}

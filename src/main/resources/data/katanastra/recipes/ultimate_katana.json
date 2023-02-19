@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    " # ",
+    "N  "
+  ],
+  "key": {
+    "#": {
+      "item": "katanastra:blood_infused_netherite"
+    },
+    "N": {
+      "item": "katanastra:netherite_handle"
+    }
+  },
+  "result": {
+    "item": "katanastra:ultimate_katana",
+    "count": 1
+  }
+}

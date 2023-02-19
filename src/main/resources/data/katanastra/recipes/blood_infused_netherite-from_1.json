@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "addition": {
+    "item": "katanastra:blood_ingot"
+  },
+  "result": {
+    "item": "katanastra:blood_infused_netherite"
+  }
+}

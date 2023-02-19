@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#  ",
+    "Ln ",
+    "/L#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "n": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "katanastra:netherite_handle",
+    "count": 1
+  }
+}
